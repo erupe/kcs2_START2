@@ -35502,13 +35502,13 @@
       }
     ],
     "api_mst_const": {
-      "api_parallel_quest_max": {
-        "api_string_value": "",
-        "api_int_value": 10
-      },
       "api_boko_max_ships": {
         "api_string_value": "",
         "api_int_value": 400
+      },
+      "api_parallel_quest_max": {
+        "api_string_value": "",
+        "api_int_value": 10
       },
       "api_dpflag_quest": {
         "api_string_value": "",
@@ -45216,8 +45216,8 @@
       }, {
         "api_id": 132,
         "api_sortno": 132,
-        "api_filename": "khxsxmiuccsf",
-        "api_version": ["13", "4", "1207"],
+        "api_filename": "khxsxmiucccm",
+        "api_version": ["14", "6", "1224"],
         "api_boko_n": [234, 234],
         "api_boko_d": [180, 234],
         "api_kaisyu_n": [36, -12],
@@ -48556,8 +48556,8 @@
       }, {
         "api_id": 301,
         "api_sortno": 1397,
-        "api_filename": "ijhrnvnbqkmj",
-        "api_version": ["13", "4", "1207"],
+        "api_filename": "ijhrnvnbqkcm",
+        "api_version": ["14", "6", "1224"],
         "api_boko_n": [234, 234],
         "api_boko_d": [180, 234],
         "api_kaisyu_n": [36, -12],
