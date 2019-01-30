@@ -31065,6 +31065,35 @@
         "api_info": "米国で開発され、多くの水上艦艇に装備された実用的な対水上レーダーです。<br>紅茶の国で開発された進んだレーダー技術を導入、さらに独自の改良を加え、発展していった標準的かつ実用的な対水上及び低空警戒捜索レーダー、その初期型です。",
         "api_usebull": "0"
       }, {
+        "api_id": 316,
+        "api_sortno": 316,
+        "api_name": "Re.2001 CB改",
+        "api_type": [3, 5, 7, 7, 14],
+        "api_taik": 0,
+        "api_souk": 0,
+        "api_houg": 3,
+        "api_raig": 0,
+        "api_soku": 0,
+        "api_baku": 6,
+        "api_tyku": 4,
+        "api_tais": 3,
+        "api_atap": 0,
+        "api_houm": 1,
+        "api_raim": 0,
+        "api_houk": 2,
+        "api_raik": 0,
+        "api_bakk": 0,
+        "api_saku": 0,
+        "api_sakb": 0,
+        "api_luck": 0,
+        "api_leng": 0,
+        "api_cost": 6,
+        "api_distance": 3,
+        "api_rare": 4,
+        "api_broken": [1, 4, 0, 6],
+        "api_info": "パスタの国で開発/配備された液冷エンジン装備の戦闘機、<br>その戦闘爆撃機タイプです。<br>比較的大きな打撃力を持ち、爆弾投下後は制空戦闘で活躍……することもできるかも。艦爆と艦戦の中間的な機体です。あの空母にぜひ載せてあげたいですね！",
+        "api_usebull": "0"
+      }, {
         "api_id": 501,
         "api_sortno": 0,
         "api_name": "5inch単装砲",
@@ -36159,17 +36188,17 @@
       }
     ],
     "api_mst_const": {
-      "api_boko_max_ships": {
+      "api_dpflag_quest": {
         "api_string_value": "",
-        "api_int_value": 400
+        "api_int_value": 0
       },
       "api_parallel_quest_max": {
         "api_string_value": "",
         "api_int_value": 10
       },
-      "api_dpflag_quest": {
+      "api_boko_max_ships": {
         "api_string_value": "",
-        "api_int_value": 0
+        "api_int_value": 400
       }
     },
     "api_mst_shipupgrade": [{
