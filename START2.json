@@ -32380,6 +32380,64 @@
         "api_info": "パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射砲、その軽巡用主砲バージョンです。砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最新型です。戦後も活躍した新鋭軽巡の主砲、そして同構造の砲は新型高速戦艦の副砲にも採用された本砲をさらに熟成した、改修後期型です。",
         "api_usebull": "0"
       }, {
+        "api_id": 342,
+        "api_sortno": 342,
+        "api_name": "流星改(一航戦)",
+        "api_type": [3, 5, 8, 8, 33],
+        "api_taik": 0,
+        "api_souk": 0,
+        "api_houg": 0,
+        "api_raig": 14,
+        "api_soku": 0,
+        "api_baku": 0,
+        "api_tyku": 2,
+        "api_tais": 6,
+        "api_atap": 0,
+        "api_houm": 1,
+        "api_raim": 0,
+        "api_houk": 0,
+        "api_raik": 0,
+        "api_bakk": 0,
+        "api_saku": 4,
+        "api_sakb": 0,
+        "api_luck": 0,
+        "api_leng": 0,
+        "api_cost": 9,
+        "api_distance": 6,
+        "api_rare": 5,
+        "api_broken": [2, 6, 0, 11],
+        "api_info": "艦攻と艦爆を統合した先進的な\"急降下爆撃可能な雷撃機\"「流星」の性能向上型です。美しいフォルムだけでなく、爆弾倉・主脚・主翼折り畳み機構も油圧操作式、20mm砲x2門と7.7mm機銃x2門、さらに13mm後方旋回銃x1門という世界最強武装を誇る艦上統合攻撃機「流星改」。同機を装備した「赤城」「加賀」配備のif精鋭艦攻隊です。",
+        "api_usebull": "0"
+      }, {
+        "api_id": 343,
+        "api_sortno": 343,
+        "api_name": "流星改(一航戦/熟練)",
+        "api_type": [3, 5, 8, 8, 33],
+        "api_taik": 0,
+        "api_souk": 0,
+        "api_houg": 0,
+        "api_raig": 15,
+        "api_soku": 0,
+        "api_baku": 0,
+        "api_tyku": 3,
+        "api_tais": 7,
+        "api_atap": 0,
+        "api_houm": 2,
+        "api_raim": 0,
+        "api_houk": 0,
+        "api_raik": 0,
+        "api_bakk": 0,
+        "api_saku": 6,
+        "api_sakb": 0,
+        "api_luck": 0,
+        "api_leng": 0,
+        "api_cost": 9,
+        "api_distance": 6,
+        "api_rare": 6,
+        "api_broken": [2, 6, 0, 11],
+        "api_info": "艦攻と艦爆を統合した先進的な\"急降下爆撃可能な雷撃機\"「流星」の性能向上型です。美しいフォルムだけでなく、爆弾倉・主脚・主翼折り畳み機構も油圧操作式、20mm砲x2門と7.7mm機銃x2門、さらに13mm後方旋回銃x1門という世界最強武装を誇る艦上統合攻撃機「流星改」。同機と熟練搭乗員による「赤城」「加賀」配備の最精鋭if艦攻隊です。",
+        "api_usebull": "0"
+      }, {
         "api_id": 501,
         "api_sortno": 0,
         "api_name": "5inch単装砲",
@@ -37685,10 +37743,6 @@
       }
     ],
     "api_mst_const": {
-      "api_boko_max_ships": {
-        "api_string_value": "",
-        "api_int_value": 410
-      },
       "api_dpflag_quest": {
         "api_string_value": "",
         "api_int_value": 0
@@ -37696,6 +37750,10 @@
       "api_parallel_quest_max": {
         "api_string_value": "",
         "api_int_value": 10
+      },
+      "api_boko_max_ships": {
+        "api_string_value": "",
+        "api_int_value": 410
       }
     },
     "api_mst_shipupgrade": [{
@@ -52998,7 +53056,7 @@
         "api_id": 378,
         "api_sortno": 384,
         "api_filename": "tsxkhnklujer",
-        "api_version": ["1", "1", "520"],
+        "api_version": ["2", "1", "520"],
         "api_boko_n": [178, 265],
         "api_boko_d": [145, 279],
         "api_kaisyu_n": [28, -3],
@@ -56698,7 +56756,7 @@
         "api_id": 584,
         "api_sortno": 384,
         "api_filename": "rqpotbrpzmfv",
-        "api_version": ["51", "1", "520"],
+        "api_version": ["52", "1", "520"],
         "api_boko_n": [178, 265],
         "api_boko_d": [145, 279],
         "api_kaisyu_n": [28, -3],
@@ -69318,7 +69376,7 @@
         "api_id": 1711,
         "api_sortno": 0,
         "api_filename": "slqhgxidlkwx",
-        "api_version": ["1", "1", "1"],
+        "api_version": ["2", "1", "1"],
         "api_boko_n": [0, 0],
         "api_boko_d": [0, 0],
         "api_kaisyu_n": [0, 0],
@@ -69338,7 +69396,7 @@
         "api_id": 1712,
         "api_sortno": 0,
         "api_filename": "wpakfsjikjdg",
-        "api_version": ["1", "1", "1"],
+        "api_version": ["2", "1", "1"],
         "api_boko_n": [0, 0],
         "api_boko_d": [0, 0],
         "api_kaisyu_n": [0, 0],
@@ -69358,7 +69416,7 @@
         "api_id": 1713,
         "api_sortno": 0,
         "api_filename": "qdrobavpfofp",
-        "api_version": ["1", "1", "1"],
+        "api_version": ["2", "1", "1"],
         "api_boko_n": [0, 0],
         "api_boko_d": [0, 0],
         "api_kaisyu_n": [0, 0],
